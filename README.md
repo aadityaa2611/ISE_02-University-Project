@@ -1,5 +1,6 @@
 # ISE_02-University-Project
-# 🐄 Cattle Breed Classification using EfficientNet (Streamlit App)
+# EfficientNet-Based Transfer Learning Framework for 
+Indian Cattle Breed Recognition 
 
 ## 📌 Project Overview
 
