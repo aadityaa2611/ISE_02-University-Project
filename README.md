@@ -1,6 +1,5 @@
 # ISE_02-University-Project
-# EfficientNet-Based Transfer Learning Framework for 
-Indian Cattle Breed Recognition 
+# EfficientNet-Based Transfer Learning Framework for Indian Cattle Breed Recognition 
 
 ## 📌 Project Overview
 
