@@ -265,11 +265,6 @@ torch.topk()
 
 ---
 
-# 👨‍💻 Author
-
-Project developed as part of AI/ML application for cattle breed classification.
-
----
 
 # 📌 Conclusion
 
